@@ -1,0 +1,5252 @@
+.hometab {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000 !important;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.hometab a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.hometab a:hover{
+border-bottom: 2px solid #000;
+}
+
+.hometab a:active{
+  border-bottom: 2px solid #000;
+  }
+
+
+.about {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 824px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.about a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.about a:hover{
+  border-bottom: 2px solid #000;
+  }
+  
+  .about a:active{
+    border-bottom: 2px solid #000;
+    }
+
+.contact {
+  width: 78px;
+  left: 1000px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.contact a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.contact a:hover{
+  border-bottom: 2px solid #000;
+  }
+  
+  .contact a:active{
+    border-bottom: 2px solid #000;
+    }
+
+.resume a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.resume a:hover{
+  opacity: 50%;
+}
+
+
+
+a{
+  text-decoration: none;
+}
+
+.home-about {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-about .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2794px;
+  position: relative;
+}
+
+.home-about .hero {
+  position: absolute;
+  width: 1133px;
+  height: 515px;
+  top: 251px;
+  left: 139px;
+}
+
+.home-about .text-wrapper {
+  position: absolute;
+  width: 1133px;
+  top: -1px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-about .p {
+  position: absolute;
+  width: 830px;
+  top: 250px;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.home-about .line {
+  top: 218px;
+  left: 12px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.home-about .img {
+  top: 513px;
+  left: 13px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.home-about .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.home-about .rectangle {
+  position: absolute;
+  width: 101px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  border-radius: 11px;
+}
+
+.home-about .text-wrapper-2 {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 58px;
+  left: 642px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-4 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-5 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-6 {
+  position: absolute;
+  width: 78px;
+  top: 58px;
+  left: 1028px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.home-about .overlap-group {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2362px;
+  left: 0;
+}
+
+.home-about .rectangle-2 {
+  position: absolute;
+  width: 1728px;
+  height: 432px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.home-about .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.home-about .text-wrapper-7 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .frame {
+  display: inline-flex;
+  align-items: center;
+  gap: 35px;
+  position: absolute;
+  top: 54px;
+  left: 1434px;
+}
+
+.home-about .element {
+  position: relative;
+  width: 50px;
+  height: 51px;
+  object-fit: cover;
+}
+
+.home-about .fa-team-fontawesome {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-3 {
+  position: absolute;
+  width: 423px;
+  height: 371px;
+  top: 934px;
+  left: 150px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-4 {
+  position: absolute;
+  width: 422px;
+  height: 371px;
+  top: 934px;
+  left: 653px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-5 {
+  position: absolute;
+  width: 421px;
+  height: 371px;
+  top: 934px;
+  left: 1157px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-6 {
+  top: 1361px;
+  position: absolute;
+  width: 423px;
+  height: 371px;
+  left: 150px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-7 {
+  position: absolute;
+  width: 413px;
+  height: 363px;
+  top: 1365px;
+  left: 657px;
+}
+
+.home-about .rectangle-8 {
+  width: 423px;
+  top: 1361px;
+  left: 1155px;
+  position: absolute;
+  height: 371px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-9 {
+  top: 1788px;
+  position: absolute;
+  width: 423px;
+  height: 371px;
+  left: 150px;
+  object-fit: cover;
+}
+
+.home-about .rectangle-10 {
+  position: absolute;
+  width: 422px;
+  height: 371px;
+  top: 1788px;
+  left: 653px;
+}
+
+.home-about .rectangle-11 {
+  width: 421px;
+  top: 1788px;
+  left: 1157px;
+  position: absolute;
+  height: 371px;
+  object-fit: cover;
+}
+
+
+
+/*----------------------------------------------------------------------*/
+
+
+
+.stylecast {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.stylecast .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 6914px;
+  position: relative;
+}
+
+.stylecast .overlap {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 6482px;
+  left: 0;
+}
+
+.stylecast .rectangle {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.stylecast .text-wrapper {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.stylecast .tomlogoo {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.stylecast .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.stylecast .img {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.stylecast .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.stylecast .rectangle-2 {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.stylecast .text-wrapper-2 {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .overlap-2 {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.stylecast .text-wrapper-3 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.stylecast .text-wrapper-4 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .p {
+  position: absolute;
+  width: 830px;
+  top: 500px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.stylecast .overlap-3 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 767px;
+  left: 151px;
+}
+
+.stylecast .text-wrapper-5 {
+  position: absolute;
+  width: 830px;
+  top: -10px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.stylecast .line {
+  top: 74px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.stylecast .overlap-4 {
+  position: absolute;
+  width: 930px;
+  height: 886px;
+  top: 925px;
+  left: 138px;
+}
+
+.stylecast .text-wrapper-6 {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 15px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.stylecast .home {
+  position: absolute;
+  width: 398px;
+  top: 66px;
+  left: 532px;
+}
+
+.stylecast .homescreen {
+  position: absolute;
+  width: 427px;
+  top: 66px;
+  left: 0;
+}
+
+.stylecast .text-wrapper-7 {
+  position: absolute;
+  width: 830px;
+  top: 3030px;
+  left: 153px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.stylecast .overlap-group-2 {
+  position: absolute;
+  width: 921px;
+  height: 555px;
+  top: 4372px;
+  left: 151px;
+}
+
+.stylecast .text-wrapper-8 {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  padding-bottom: 30px;
+  left: 2px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.stylecast .custom-size {
+  width: 420px;
+  top: 100px;
+  left: 0;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .custom-size-2 {
+  width: 418px;
+  top: 100px;
+  left: 503px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .line-2 {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.stylecast .tomlogoo-2 {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.stylecast .custom-size-3 {
+  width: 418px;
+  top: 4472px;
+  left: 1160px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .custom-size-4 {
+  width: 419px;
+  top: 5076px;
+  left: 150px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .custom-size-5 {
+  width: 418px;
+  top: 5076px;
+  left: 653px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .custom-size-6 {
+  width: 419px;
+  top: 5076px;
+  left: 1158px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .custom-size-7 {
+  width: 420px;
+  top: 5751px;
+  left: 151px;
+  position: absolute;
+  height: 525px;
+  object-fit: cover;
+}
+
+.stylecast .account {
+  position: absolute;
+  width: 398px;
+  top: 1913px;
+  left: 1192px;
+}
+
+.stylecast .add {
+  position: absolute;
+  width: 398px;
+  top: 1913px;
+  left: 138px;
+}
+
+.stylecast .search {
+  position: absolute;
+  width: 398px;
+  top: 991px;
+  left: 1199px;
+}
+
+.stylecast .wardrobe {
+  position: absolute;
+  width: 398px;
+  top: 1913px;
+  left: 670px;
+}
+
+.stylecast .screen-recording {
+  position: absolute;
+  width: 1439px;
+  height: 919px;
+  top: 3186px;
+  left: 153px;
+  object-fit: cover;
+}
+
+.stylecast .text-wrapper-9 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .text-wrapper-10 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .text-wrapper-11 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .text-wrapper-12 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.stylecast .linkedin-icon {
+  position: absolute;
+  width: 40px;
+  height: 38px;
+  top: 5518px;
+  left: -1023px;
+}
+
+
+
+/*---------------------------------------------------------------------*/
+
+
+
+
+
+.freelance {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.freelance .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 3254px;
+  position: relative;
+}
+
+.freelance .overlap {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2822px;
+  left: 0;
+}
+
+.freelance .rectangle {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.freelance .text-wrapper {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.freelance .tomlogoo {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.freelance .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.freelance .img {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.freelance .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.freelance .rectangle-2 {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.freelance .text-wrapper-2 {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .overlap-2 {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.freelance .text-wrapper-3 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.freelance .text-wrapper-4 {
+  position: absolute;
+  width: 124px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .p {
+  position: absolute;
+  width: 308px;
+  top: 1438px;
+  left: 150px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-5 {
+  position: absolute;
+  width: 308px;
+  top: 1438px;
+  left: 1155px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .overlap-3 {
+  position: absolute;
+  width: 875px;
+  height: 29px;
+  top: 1966px;
+  left: 650px;
+}
+
+.freelance .text-wrapper-6 {
+  position: absolute;
+  width: 510px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-7 {
+  position: absolute;
+  width: 370px;
+  top: 0;
+  left: 505px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-8 {
+  position: absolute;
+  width: 308px;
+  top: 2607px;
+  left: 150px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-9 {
+  position: absolute;
+  width: 308px;
+  top: 2602px;
+  left: 1164px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-10 {
+  position: absolute;
+  width: 308px;
+  top: 1438px;
+  left: 653px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-11 {
+  position: absolute;
+  width: 370px;
+  top: 1966px;
+  left: 150px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-12 {
+  position: absolute;
+  width: 515px;
+  top: 2602px;
+  left: 649px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-13 {
+  position: absolute;
+  width: 830px;
+  top: 510px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.freelance .overlap-4 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 727px;
+  left: 151px;
+}
+
+.freelance .text-wrapper-14 {
+  position: absolute;
+  width: 830px;
+  top: -20px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.freelance .line {
+  top: 74px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.freelance .line-2 {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.freelance .tomlogoo-2 {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.freelance .fosh {
+  position: absolute;
+  width: 425px;
+  height: 425px;
+  top: 1001px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.freelance .FOSHMERCH {
+  position: absolute;
+  width: 425px;
+  height: 425px;
+  top: 1001px;
+  left: 653px;
+  object-fit: cover;
+}
+
+.freelance .ikht {
+  position: absolute;
+  width: 420px;
+  height: 415px;
+  top: 1005px;
+  left: 1155px;
+  object-fit: cover;
+}
+
+.freelance .ikhtdraft {
+  position: absolute;
+  width: 420px;
+  height: 423px;
+  top: 1532px;
+  left: 150px;
+  object-fit: cover;
+}
+
+.freelance .airmax {
+  position: absolute;
+  width: 426px;
+  height: 530px;
+  top: 2065px;
+  left: 144px;
+}
+
+.freelance .club-shamrock {
+  position: absolute;
+  width: 426px;
+  height: 532px;
+  top: 2065px;
+  left: 649px;
+  object-fit: cover;
+}
+
+.freelance .IKHT-tour {
+  position: absolute;
+  width: 357px;
+  height: 552px;
+  top: 2044px;
+  left: 1180px;
+  object-fit: cover;
+}
+
+.freelance .mainstreetdemos {
+  position: absolute;
+  width: 425px;
+  height: 425px;
+  top: 1532px;
+  left: 650px;
+  object-fit: cover;
+}
+
+.freelance .FOSHMERCH-2 {
+  position: absolute;
+  width: 425px;
+  height: 425px;
+  top: 1532px;
+  left: 1155px;
+  object-fit: cover;
+}
+
+.freelance .text-wrapper-15 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-16 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-17 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .text-wrapper-18 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.freelance .linkedin-icon {
+  position: absolute;
+  width: 40px;
+  height: 24px;
+  top: 2018px;
+  left: -2839px;
+}
+
+
+
+/*---------------------------------------------------------------------*/
+
+
+
+
+.worn {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.worn .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 8228px;
+  position: relative;
+}
+
+.worn .overlap {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 7796px;
+  left: 0;
+}
+
+.worn .rectangle {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.worn .text-wrapper {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.worn .tomlogoo {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.worn .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.worn .img {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.worn .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.worn .rectangle-2 {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.worn .text-wrapper-2 {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .overlap-2 {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.worn .text-wrapper-3 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.worn .text-wrapper-4 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .p {
+  position: absolute;
+  width: 830px;
+  top: 529px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.worn .overlap-3 {
+  position: absolute;
+  width: 1728px;
+  height: 3102px;
+  top: 757px;
+  left: 0;
+}
+
+.worn .text-wrapper-5 {
+  position: absolute;
+  width: 830px;
+  top: 30px;
+  padding-bottom: 30pxƒƒƒ;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.worn .text-wrapper-6 {
+  position: absolute;
+  width: 830px;
+  top: 148px;
+  left: 153px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.worn .line {
+  top: 104px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+  left: 151px;
+}
+
+.worn .wornphones {
+  position: absolute;
+  width: 1728px;
+  height: 2950px;
+  top: 152px;
+  left: 0;
+  object-fit: cover;
+}
+
+.worn .overlap-4 {
+  position: absolute;
+  width: 1520px;
+  height: 2036px;
+  top: 4043px;
+  left: 104px;
+}
+
+.worn .text-wrapper-7 {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 49px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.worn .wornlap {
+  position: absolute;
+  width: 1520px;
+  height: 1943px;
+  top: 93px;
+  left: 0;
+  object-fit: cover;
+}
+
+.worn .overlap-group-2 {
+  position: absolute;
+  width: 859px;
+  height: 511px;
+  top: 6136px;
+  left: 153px;
+}
+
+.worn .text-wrapper-8 {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.worn .screen-shot {
+  position: absolute;
+  width: 296px;
+  height: 371px;
+  top: 140px;
+  left: 13px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-2 {
+  height: 371px;
+  top: 140px;
+  left: 563px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .line-2 {
+  top: 469px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+  left: 151px;
+}
+
+.worn .tomlogoo-2 {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.worn .screen-shot-3 {
+  height: 369px;
+  top: 6758px;
+  left: 1266px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-4 {
+  height: 372px;
+  top: 6275px;
+  left: 1266px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-5 {
+  height: 370px;
+  top: 6757px;
+  left: 166px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-6 {
+  height: 372px;
+  top: 6757px;
+  left: 716px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-7 {
+  height: 371px;
+  top: 7239px;
+  left: 166px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .screen-shot-8 {
+  height: 370px;
+  top: 7239px;
+  left: 716px;
+  position: absolute;
+  width: 296px;
+  object-fit: cover;
+}
+
+.worn .text-wrapper-9 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .text-wrapper-10 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .text-wrapper-11 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .text-wrapper-12 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.worn .linkedin-icon {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 7121px;
+  left: -4655px;
+}
+
+
+
+
+
+/*---------------------------------------------------------------------*/
+
+
+
+
+
+.swissted {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.swissted .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2798px;
+  position: relative;
+}
+
+.swissted .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.swissted .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.swissted .resume {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.swissted .overlap {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.swissted .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.swissted .inspired-by-mike {
+  position: absolute;
+  width: 830px;
+  top: 529px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.swissted .overlap-2 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 697px;
+  left: 151px;
+}
+
+.swissted .text-wrapper-4 {
+  position: absolute;
+  width: 830px;
+  top: 20px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.swissted .line {
+  top: 90px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.swissted .img {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.swissted .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.swissted .cure {
+  position: absolute;
+  width: 421px;
+  height: 546px;
+  top: 912px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.swissted .joy {
+  position: absolute;
+  width: 421px;
+  height: 546px;
+  top: 912px;
+  left: 654px;
+  object-fit: cover;
+}
+
+.swissted .smash {
+  position: absolute;
+  width: 414px;
+  height: 534px;
+  top: 1577px;
+  left: 654px;
+}
+
+.swissted .screen-shot {
+  position: absolute;
+  width: 421px;
+  height: 545px;
+  top: 912px;
+  left: 1157px;
+}
+
+.swissted .strokes {
+  position: absolute;
+  width: 421px;
+  height: 545px;
+  top: 1577px;
+  left: 150px;
+}
+
+.swissted .sonic {
+  position: absolute;
+  width: 414px;
+  height: 534px;
+  top: 1577px;
+  left: 1158px;
+}
+
+.swissted .text-wrapper-5 {
+  width: 207px;
+  top: 1467px;
+  left: 151px;
+  position: absolute;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .text-wrapper-6 {
+  position: absolute;
+  width: 207px;
+  top: 1466px;
+  left: 1157px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .text-wrapper-7 {
+  position: absolute;
+  width: 204px;
+  top: 2143px;
+  left: 654px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .text-wrapper-8 {
+  width: 208px;
+  top: 1471px;
+  left: 654px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  white-space: nowrap;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.swissted .text-wrapper-9 {
+  width: 208px;
+  top: 2135px;
+  left: 150px;
+  position: absolute;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .text-wrapper-10 {
+  position: absolute;
+  width: 204px;
+  top: 2137px;
+  left: 1155px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.swissted .home {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.swissted .work {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+
+.swissted .overlap-3 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2366px;
+  left: 0;
+}
+
+.swissted .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.swissted .text-wrapper-15 {
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 280px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.swissted .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.swissted .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.swissted .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.swissted .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/
+/*---------------------------------------------------------------------*/
+
+
+
+.menu {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.menu .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2715px;
+  position: relative;
+}
+
+.menu .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.menu .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.resume {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff !important;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none !important;
+}
+
+.menu .overlap-group {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.menu .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.menu .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .overlap-2 {
+  position: absolute;
+  width: 830px;
+  height: 283px;
+  top: 529px;
+  left: 151px;
+}
+
+.menu .i-was-reached-out-to {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.menu .text-wrapper-4 {
+  position: absolute;
+  width: 830px;
+  top: 148px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.menu .line {
+  top: 222px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.menu .img {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.menu .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.menu .burritos {
+  position: absolute;
+  width: 625px;
+  height: 351px;
+  top: 872px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.menu .burritos-2 {
+  position: absolute;
+  width: 625px;
+  height: 351px;
+  top: 872px;
+  left: 897px;
+  object-fit: cover;
+}
+
+.menu .quesadillas {
+  position: absolute;
+  width: 625px;
+  height: 352px;
+  top: 1301px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.menu .salad {
+  position: absolute;
+  width: 625px;
+  height: 353px;
+  top: 1301px;
+  left: 898px;
+  object-fit: cover;
+}
+
+.menu .snacks {
+  position: absolute;
+  width: 625px;
+  height: 352px;
+  top: 1731px;
+  left: 898px;
+  object-fit: cover;
+}
+
+.menu .tacos {
+  position: absolute;
+  width: 625px;
+  height: 352px;
+  top: 1731px;
+  left: 151px;
+  object-fit: cover;
+}
+
+
+
+.menu .overlap-group-2 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2283px;
+  left: 0;
+}
+
+.menu .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.menu .text-wrapper-9 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.menu .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.menu .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.menu .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.runnr {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.runnr .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 3514px;
+  position: relative;
+}
+
+.runnr .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.runnr .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.runnr .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .overlap {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.runnr .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.runnr .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .this-was-the-first {
+  position: absolute;
+  width: 830px;
+  top: 529px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.runnr .overlap-2 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 727px;
+  left: 151px;
+}
+
+.runnr .text-wrapper-4 {
+  position: absolute;
+  width: 830px;
+  top: 20px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.runnr .line {
+  position: absolute;
+  width: 830px;
+  height: 2px;
+  top: 84px;
+  left: 0;
+}
+
+.runnr .line-run {
+  position: absolute;
+  width: 830px;
+  height: 2px;
+  top: 469px;
+  left: 151px;
+}
+
+.runnr .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.runnr .phone {
+  position: absolute;
+  width: 1530px;
+  height: 967px;
+  top: 916px;
+  left: 107px;
+  object-fit: cover;
+}
+
+.runnr .phone-run {
+  position: absolute;
+  width: 1530px;
+  height: 968px;
+  top: 1936px;
+  left: 107px;
+  object-fit: cover;
+}
+
+.runnr .text-wrapper-5 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .text-wrapper-6 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .text-wrapper-7 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .text-wrapper-8 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .overlap-3 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 3082px;
+  left: -2px;
+}
+
+.runnr .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.runnr .text-wrapper-9 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.runnr .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.runnr .img {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.runnr .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.runnr .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+a:link{
+  text-decoration: none!important;
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+
+
+.contacty {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contacty .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 1613px;
+  position: relative;
+}
+
+.contacty .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.contacty .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.contacty .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.contacty .text-wrapper-2 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .text-wrapper-3 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .text-wrapper-4 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .text-wrapper-5 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .overlap-group {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 1181px;
+  left: 0;
+}
+
+.contacty .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.contacty .text-wrapper-6 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.contacty .img {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.contacty .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.contacty .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.contacty .element-3 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 705px;
+  left: 1163px;
+  object-fit: cover;
+}
+
+.contacty .fa-team-fontawesome-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 705px;
+  left: 725px;
+  object-fit: cover;
+}
+
+.contacty .element-4 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 710px;
+  left: 289px;
+  object-fit: cover;
+}
+
+.contacty .text-wrapper-7 {
+  position: absolute;
+  width: 1133px;
+  top: 216px;
+  left: 293px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 200px;
+}
+
+.contacty .text-wrapper-8 {
+  position: absolute;
+  width: 137px;
+  top: 718px;
+  left: 369px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .text-wrapper-9 {
+  position: absolute;
+  width: 124px;
+  top: 718px;
+  left: 815px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .text-wrapper-10 {
+  position: absolute;
+  width: 124px;
+  top: 716px;
+  left: 1243px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contacty .business-tomphix-png {
+  top: 813px;
+  left: 289px;
+  position: absolute;
+  width: 271px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.contacty .business-tomphix-png a{
+  text-decoration: none;
+  color: #000000;
+}
+
+.contacty .business-tomphix-png a:hover{
+opacity: 50%;
+}
+
+.contacty .business {
+  top: 811px;
+  left: 726px;
+  position: absolute;
+  width: 271px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+
+
+.contacty .business a{
+  text-decoration: none;
+  color: black;
+}
+
+.contacty .business a:hover{
+  opacity: 50%;
+}
+
+.contacty .p {
+  position: absolute;
+  width: 271px;
+  top: 809px;
+  left: 1163px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.contacty .link6 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 705px;
+  left: 1163px;
+  object-fit: cover;
+}
+
+.contacty .mail6 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 705px;
+  left: 725px;
+  object-fit: cover;
+}
+
+.contacty .iglog6 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 710px;
+  left: 289px;
+  object-fit: cover;
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.aboott {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.aboott .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2715px;
+  position: relative;
+}
+
+.aboott .overlap-group {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.aboott .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.aboott .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.aboott .text-wrapper-2 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .abooty {
+  width: 68px;
+  top: 296px;
+  left: 150px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  position: absolute;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .text-wrapper-4 {
+  position: absolute;
+  width: 392px;
+  top: 792px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .overlap {
+  position: absolute;
+  width: 563px;
+  height: 1296px;
+  top: 911px;
+  left: 146px;
+}
+
+.aboott .text-wrapper-5 {
+  position: absolute;
+  width: 423px;
+  top: 756px;
+  left: 4px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .line {
+  top: 666px;
+  position: absolute;
+  width: 558px;
+  height: 2px;
+  left: 4px;
+}
+
+.aboott .plots-inc {
+  position: absolute;
+  width: 266px;
+  top: 0;
+  left: 5px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.aboott .p {
+  position: absolute;
+  width: 266px;
+  top: 0;
+  left: 292px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.aboott .text-wrapper-6 {
+  position: absolute;
+  width: 271px;
+  top: 874px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.aboott .text-wrapper-7 {
+  position: absolute;
+  width: 271px;
+  top: 874px;
+  left: 292px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.aboott .text-wrapper-8 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .text-wrapper-9 {
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  position: absolute;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .text-wrapper-10 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .overlap-2 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2283px;
+  left: 0;
+}
+
+.aboott .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.aboott .text-wrapper-11 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.aboott .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.aboott .img {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.aboott .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.aboott .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.aboott .longpic {
+  position: absolute;
+  width: 704px;
+  height: 1776px;
+  top: 297px;
+  left: 874px;
+}
+
+.aboott .overlap-3 {
+  position: absolute;
+  width: 562px;
+  height: 310px;
+  top: 418px;
+  left: 146px;
+}
+
+.aboott .line-2 {
+  top: 293px;
+  position: absolute;
+  width: 558px;
+  height: 2px;
+  left: 4px;
+}
+
+.aboott .i-m-thomas {
+  position: absolute;
+  width: 271px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+.artspring {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.artspring .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2682px;
+  position: relative;
+}
+
+.artspring .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.artspring .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.artspring .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .overlap-group {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.artspring .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artspring .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .we-were-tasked-with {
+  position: absolute;
+  width: 830px;
+  top: 494px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.artspring .overlap-2 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 697px;
+  left: 151px;
+}
+
+.artspring .XD-HTML-CSS {
+  position: absolute;
+  width: 830px;
+  top: -40px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.artspring .line {
+  top: 74px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.artspring .img {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.artspring .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.artspring .text-wrapper-4 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .text-wrapper-5 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .text-wrapper-6 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .text-wrapper-7 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .scree {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 925px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.artspring .scree-2 {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 925px;
+  left: 655px;
+  object-fit: cover;
+}
+
+.artspring .scree-3 {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 925px;
+  left: 1160px;
+  object-fit: cover;
+}
+
+.artspring .scree-4 {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 1529px;
+  left: 151px;
+  object-fit: cover;
+}
+
+.artspring .scree-5 {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 1529px;
+  left: 655px;
+  object-fit: cover;
+}
+
+.artspring .scree-6 {
+  position: absolute;
+  width: 421px;
+  height: 521px;
+  top: 1529px;
+  left: 1160px;
+  object-fit: cover;
+}
+
+.artspring .overlap-3 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2250px;
+  left: 0;
+}
+
+.artspring .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.artspring .text-wrapper-8 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artspring .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.artspring .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.artspring .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.artspring .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+.gorp {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.gorp .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 3931px;
+  position: relative;
+}
+
+.gorp .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.gorp .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.gorp .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .overlap-group {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.gorp .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.gorp .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .p {
+  position: absolute;
+  width: 830px;
+  top: 509px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.gorp .overlap-2 {
+  position: absolute;
+  width: 830px;
+  height: 155px;
+  top: 697px;
+  left: 151px;
+}
+
+.gorp .text-wrapper-4 {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.gorp .line {
+  top: 74px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.gorp .img {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.gorp .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.gorp .text-wrapper-5 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .text-wrapper-6 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .text-wrapper-7 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .text-wrapper-8 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .overlap-3 {
+  position: absolute;
+  width: 1604px;
+  height: 1265px;
+  top: 884px;
+  left: 51px;
+}
+
+.gorp .overlap-4 {
+  position: absolute;
+  width: 1604px;
+  height: 1260px;
+  top: 0;
+  left: 0;
+}
+
+.gorp .zinemock {
+  position: absolute;
+  width: 1604px;
+  height: 744px;
+  top: 0;
+  left: 0;
+}
+
+.gorp .zin {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 741px;
+  left: 850px;
+  object-fit: cover;
+}
+
+.gorp .zin-2 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 741px;
+  left: 1185px;
+  object-fit: cover;
+}
+
+.gorp .overlap-5 {
+  position: absolute;
+  width: 660px;
+  height: 519px;
+  top: 746px;
+  left: 97px;
+}
+
+.gorp .zin-3 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.gorp .zin-4 {
+  position: absolute;
+  width: 334px;
+  height: 519px;
+  top: 0;
+  left: 326px;
+  object-fit: cover;
+}
+
+.gorp .overlap-6 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 3499px;
+  left: -4px;
+}
+
+.gorp .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.gorp .text-wrapper-9 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.gorp .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.gorp .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.gorp .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.gorp .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.gorp .overlap-7 {
+  position: absolute;
+  width: 660px;
+  height: 526px;
+  top: 2205px;
+  left: 148px;
+}
+
+.gorp .zin-5 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 7px;
+  left: 0;
+  object-fit: cover;
+}
+
+.gorp .zin-6 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 0;
+  left: 325px;
+  object-fit: cover;
+}
+
+.gorp .overlap-8 {
+  position: absolute;
+  width: 667px;
+  height: 534px;
+  top: 2205px;
+  left: 901px;
+}
+
+.gorp .zin-7 {
+  position: absolute;
+  width: 340px;
+  height: 526px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.gorp .zin-8 {
+  position: absolute;
+  width: 340px;
+  height: 526px;
+  top: 8px;
+  left: 327px;
+  object-fit: cover;
+}
+
+.gorp .zin-9 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 2792px;
+  left: 904px;
+  object-fit: cover;
+}
+
+.gorp .zin-10 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 2792px;
+  left: 1239px;
+  object-fit: cover;
+}
+
+.gorp .zin-11 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 2792px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.gorp .zin-12 {
+  position: absolute;
+  width: 335px;
+  height: 519px;
+  top: 2792px;
+  left: 483px;
+  object-fit: cover;
+}
+
+
+.home-about {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-about .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 2794px;
+  position: relative;
+}
+
+.home-about .text-wrapper {
+  position: absolute;
+  width: 1133px;
+  top: 250px;
+  left: 139px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home-about .p {
+  position: absolute;
+  width: 830px;
+  top: 505px;
+  left: 151px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.home-about .line {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.home-about .img {
+  top: 764px;
+  left: 152px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.home-about .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.home-about .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.home-about .text-wrapper-2 {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 58px;
+  left: 642px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-4 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-5 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .text-wrapper-6 {
+  position: absolute;
+  width: 78px;
+  top: 58px;
+  left: 1028px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.home-about .overlap-group {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 2362px;
+  left: 0;
+}
+
+.home-about .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.home-about .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.home-about .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.home-about .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.home-about .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.home-about .text-wrapper-7 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-about .stylehome {
+  position: absolute;
+  width: 417px;
+  height: 367px;
+  top: 936px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.home-about .freehome {
+  position: absolute;
+  width: 417px;
+  height: 367px;
+  top: 936px;
+  left: 650px;
+  object-fit: cover;
+}
+
+.home-about .wornhome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 934px;
+  left: 1165px;
+  object-fit: cover;
+}
+
+.home-about .conhome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 1365px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.home-about .xboxhome {
+  position: absolute;
+  width: 417px;
+  height: 367px;
+  top: 1367px;
+  left: 650px;
+}
+
+.home-about .zinehome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 1365px;
+  left: 1164px;
+  object-fit: cover;
+}
+
+.home-about .arthome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 1792px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.home-about .menuhome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 1792px;
+  left: 650px;
+}
+
+.home-about .runhome {
+  position: absolute;
+  width: 417px;
+  height: 371px;
+  top: 1792px;
+  left: 1166px;
+  object-fit: cover;
+}
+
+.home-about .text-wrapper-8 {
+  position: absolute;
+  width: 417px;
+  top: 1307px;
+  left: 146px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-9 {
+  position: absolute;
+  width: 417px;
+  top: 1740px;
+  left: 146px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-10 {
+  position: absolute;
+  width: 417px;
+  top: 2169px;
+  left: 146px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-11 {
+  position: absolute;
+  width: 417px;
+  top: 1307px;
+  left: 650px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-12 {
+  position: absolute;
+  width: 417px;
+  top: 1730px;
+  left: 650px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-13 {
+  position: absolute;
+  width: 417px;
+  top: 2159px;
+  left: 650px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-14 {
+  position: absolute;
+  width: 417px;
+  top: 1307px;
+  left: 1164px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-15 {
+  position: absolute;
+  width: 417px;
+  top: 1730px;
+  left: 1164px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home-about .text-wrapper-16 {
+  position: absolute;
+  width: 417px;
+  top: 2169px;
+  left: 1164px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+
+.stylehome:hover{
+  opacity: 50%;
+}
+
+.freehome:hover{
+  opacity: 50%;
+}
+
+.wornhome:hover{
+  opacity: 50%;
+}
+
+.conhome:hover{
+  opacity: 50%;
+}
+
+.xboxhome:hover{
+  opacity: 50%;
+}
+
+.zinehome:hover{opacity: 50%;
+}
+
+.arthome:hover{opacity: 50%;
+}
+
+.menuhome:hover{opacity: 50%;
+}
+
+.runhome:hover{
+  opacity: 50%;
+}
+
+
+
+
+
+.xbox {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.xbox .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1728px;
+  height: 3892px;
+  position: relative;
+}
+
+.xbox .overlap {
+  position: absolute;
+  width: 121px;
+  height: 32px;
+  top: 57px;
+  left: 1580px;
+}
+
+.xbox .rectangle {
+  width: 101px;
+  height: 32px;
+  background-color: #000000;
+  border-radius: 11px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.xbox .text-wrapper {
+  position: absolute;
+  width: 105px;
+  top: 2px;
+  left: 16px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .overlap-group {
+  position: absolute;
+  width: 1133px;
+  height: 61px;
+  top: 236px;
+  left: 139px;
+}
+
+.xbox .text-wrapper-2 {
+  position: absolute;
+  width: 1133px;
+  top: 14px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.xbox .text-wrapper-3 {
+  position: absolute;
+  width: 54px;
+  top: 0;
+  left: 12px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .overlap-2 {
+  position: absolute;
+  width: 1361px;
+  height: 1027px;
+  top: 529px;
+  left: 151px;
+}
+
+.xbox .p {
+  position: absolute;
+  width: 830px;
+  top: 0;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.xbox .text-wrapper-4 {
+  position: absolute;
+  width: 830px;
+  top: 151px;
+  left: 0;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #000000;
+  font-size: 36px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.xbox .line {
+  top: 225px;
+  left: 0;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.xbox .tv {
+  position: absolute;
+  width: 1221px;
+  height: 814px;
+  top: 213px;
+  left: 140px;
+  object-fit: cover;
+}
+
+.xbox .img {
+  top: 469px;
+  left: 151px;
+  position: absolute;
+  width: 830px;
+  height: 2px;
+}
+
+.xbox .tomlogoo {
+  position: absolute;
+  width: 86px;
+  height: 87px;
+  top: 32px;
+  left: 38px;
+}
+
+.xbox .text-wrapper-5 {
+  width: 54px;
+  left: 642px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .text-wrapper-6 {
+  position: absolute;
+  width: 48px;
+  top: 58px;
+  left: 770px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .text-wrapper-7 {
+  position: absolute;
+  width: 62px;
+  top: 58px;
+  left: 892px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .text-wrapper-8 {
+  width: 78px;
+  left: 1028px;
+  position: absolute;
+  top: 58px;
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .overlap-group-2 {
+  position: absolute;
+  width: 1736px;
+  height: 695px;
+  top: 3460px;
+  left: 0;
+}
+
+.xbox .rectangle-2 {
+  width: 1728px;
+  height: 432px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.xbox .text-wrapper-9 {
+  position: absolute;
+  width: 1701px;
+  top: 131px;
+  left: 35px;
+  font-family: "Stapen-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.xbox .element {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1434px;
+  object-fit: cover;
+}
+
+.xbox .tomlogoo-2 {
+  position: absolute;
+  width: 61px;
+  height: 62px;
+  top: 53px;
+  left: 61px;
+}
+
+.xbox .fa-team-fontawesome {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 54px;
+  left: 1604px;
+  object-fit: cover;
+}
+
+.xbox .element-2 {
+  position: absolute;
+  width: 50px;
+  height: 51px;
+  top: 58px;
+  left: 1519px;
+  object-fit: cover;
+}
+
+.xbox .profilex {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2855px;
+  left: 874px;
+  object-fit: cover;
+}
+
+.xbox .libx {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2856px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.xbox .store {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2004px;
+  left: 874px;
+  object-fit: cover;
+}
+
+.xbox .setting {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2430px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.xbox .setting-x {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2430px;
+  left: 874px;
+  object-fit: cover;
+}
+
+.xbox .storepicz {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 1578px;
+  left: 874px;
+  object-fit: cover;
+}
+
+.xbox .store-x {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 2004px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.xbox .homepicx {
+  position: absolute;
+  width: 708px;
+  height: 404px;
+  top: 1578px;
+  left: 146px;
+  object-fit: cover;
+}
+
+.element:hover{
+  opacity: 50%;
+}
+
+.fa-team-fontawesome:hover{
+  opacity: 50%;
+}
+
+.element-2:hover{
+  opacity: 50%;
+}
+
+.tomlogoo:hover{
+  opacity: 50%;
+}
+
+.worn .tomlogoo-2:hover{
+  opacity: 50%;
+}
+
+.stylecast .tomlogoo-2:hover{
+  opacity: 50%;
+}
+
+.free .img:hover{
+  opacity: 50%;
+}
+
+
+
+
+
+
+
+
+
